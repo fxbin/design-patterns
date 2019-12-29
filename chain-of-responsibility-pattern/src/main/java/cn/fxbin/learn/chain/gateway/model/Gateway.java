@@ -1,9 +1,8 @@
-package cn.fxbin.learn.patterns.gateway.model;
+package cn.fxbin.learn.chain.gateway.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.Setter;
 
 import java.io.Serializable;
 

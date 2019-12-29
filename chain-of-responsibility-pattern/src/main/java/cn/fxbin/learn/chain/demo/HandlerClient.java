@@ -1,4 +1,4 @@
-package cn.fxbin.learn.patterns.demo;
+package cn.fxbin.learn.chain.demo;
 
 /**
  * HandlerClient

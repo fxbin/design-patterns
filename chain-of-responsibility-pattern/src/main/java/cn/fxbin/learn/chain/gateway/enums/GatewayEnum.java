@@ -1,6 +1,6 @@
-package cn.fxbin.learn.patterns.gateway.enums;
+package cn.fxbin.learn.chain.gateway.enums;
 
-import cn.fxbin.learn.patterns.gateway.model.Gateway;
+import cn.fxbin.learn.chain.gateway.model.Gateway;
 
 /**
  * GetewayEnum

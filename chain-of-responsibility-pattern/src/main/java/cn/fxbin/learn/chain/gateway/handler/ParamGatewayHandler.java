@@ -1,4 +1,4 @@
-package cn.fxbin.learn.patterns.gateway.handler;
+package cn.fxbin.learn.chain.gateway.handler;
 
 /**
  * ParamGatewayHandler 参数过滤拦截

@@ -1,11 +1,10 @@
-package cn.fxbin.learn.patterns.gateway.factory;
+package cn.fxbin.learn.chain.gateway.factory;
 
-import cn.fxbin.learn.patterns.gateway.handler.GatewayHandler;
-import cn.fxbin.learn.patterns.gateway.model.Gateway;
-import cn.fxbin.learn.patterns.gateway.service.GatewayService;
-import cn.fxbin.learn.patterns.gateway.service.impl.GatewayServiceImpl;
+import cn.fxbin.learn.chain.gateway.handler.GatewayHandler;
+import cn.fxbin.learn.chain.gateway.model.Gateway;
+import cn.fxbin.learn.chain.gateway.service.GatewayService;
+import cn.fxbin.learn.chain.gateway.service.impl.GatewayServiceImpl;
 
-import java.io.Serializable;
 import java.util.Objects;
 
 /**

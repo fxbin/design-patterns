@@ -1,6 +1,6 @@
-package cn.fxbin.learn.patterns.gateway.service;
+package cn.fxbin.learn.chain.gateway.service;
 
-import cn.fxbin.learn.patterns.gateway.model.Gateway;
+import cn.fxbin.learn.chain.gateway.model.Gateway;
 
 /**
  * GatewayDao

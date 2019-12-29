@@ -1,8 +1,8 @@
-package cn.fxbin.learn.patterns.gateway.service.impl;
+package cn.fxbin.learn.chain.gateway.service.impl;
 
-import cn.fxbin.learn.patterns.gateway.enums.GatewayEnum;
-import cn.fxbin.learn.patterns.gateway.model.Gateway;
-import cn.fxbin.learn.patterns.gateway.service.GatewayService;
+import cn.fxbin.learn.chain.gateway.enums.GatewayEnum;
+import cn.fxbin.learn.chain.gateway.model.Gateway;
+import cn.fxbin.learn.chain.gateway.service.GatewayService;
 
 import java.util.*;
 import java.util.stream.Collectors;

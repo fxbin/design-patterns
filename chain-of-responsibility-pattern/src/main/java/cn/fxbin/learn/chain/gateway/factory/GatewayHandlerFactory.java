@@ -1,6 +1,6 @@
-package cn.fxbin.learn.patterns.gateway.factory;
+package cn.fxbin.learn.chain.gateway.factory;
 
-import cn.fxbin.learn.patterns.gateway.handler.*;
+import cn.fxbin.learn.chain.gateway.handler.*;
 
 /**
  * GetewayHandlerFactory

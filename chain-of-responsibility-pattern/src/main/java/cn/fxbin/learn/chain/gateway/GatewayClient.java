@@ -1,8 +1,7 @@
-package cn.fxbin.learn.patterns.gateway;
+package cn.fxbin.learn.chain.gateway;
 
-import cn.fxbin.learn.patterns.gateway.factory.GatewayHandlerEnumFactory;
-import cn.fxbin.learn.patterns.gateway.factory.GatewayHandlerFactory;
-import cn.fxbin.learn.patterns.gateway.handler.GatewayHandler;
+import cn.fxbin.learn.chain.gateway.factory.GatewayHandlerEnumFactory;
+import cn.fxbin.learn.chain.gateway.handler.GatewayHandler;
 
 /**
  * GetewayClient
