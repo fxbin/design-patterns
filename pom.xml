@@ -23,6 +23,7 @@
         <module>chain-of-responsibility-pattern</module>
         <module>strategy-pattern</module>
         <module>template-pattern</module>
+        <module>proxy-pattern</module>
     </modules>
 
     <dependencies>
