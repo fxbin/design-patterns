@@ -4,11 +4,20 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>cn.fxbin.learn</groupId>
         <artifactId>design-patterns</artifactId>
+        <groupId>cn.fxbin.learn</groupId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>strategy-pattern</artifactId>
+    <artifactId>template-pattern</artifactId>
 
+    <dependencies>
+
+        <dependency>
+            <groupId>com.101tec</groupId>
+            <artifactId>zkclient</artifactId>
+            <version>0.10</version>
+        </dependency>
+
+    </dependencies>
 </project>
