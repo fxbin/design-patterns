@@ -21,6 +21,8 @@ public class StrategyClient {
         StrategyContext ctx = new StrategyContext();
         ctx.contextMethod("A");
 
+        StrategyContext strategyContext = new StrategyContext(AStrategy::new);
+        strategyContext.contextMethod();
     }
 
 }
