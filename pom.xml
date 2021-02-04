@@ -24,6 +24,9 @@
         <module>strategy-pattern</module>
         <module>template-pattern</module>
         <module>proxy-pattern</module>
+        <module>observer-Pattern</module>
+        <module>singleton-Pattern</module>
+        <module>factory-pattern</module>
     </modules>
 
     <dependencies>
