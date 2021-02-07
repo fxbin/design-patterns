@@ -27,6 +27,8 @@
         <module>observer-Pattern</module>
         <module>singleton-Pattern</module>
         <module>factory-pattern</module>
+        <module>prototype-pattern</module>
+        <module>builder-pattern</module>
     </modules>
 
     <dependencies>
