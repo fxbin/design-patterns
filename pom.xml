@@ -33,6 +33,7 @@
         <module>bridge-pattern</module>
         <module>composite-pattern</module>
         <module>decorator-pattern</module>
+        <module>facade-pattern</module>
     </modules>
 
     <dependencies>
