@@ -35,6 +35,7 @@
         <module>decorator-pattern</module>
         <module>facade-pattern</module>
         <module>flyweight-pattern</module>
+        <module>command-pattern</module>
     </modules>
 
     <dependencies>
